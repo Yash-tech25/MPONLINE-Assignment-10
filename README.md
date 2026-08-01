@@ -1,10 +1,15 @@
 # Heart Disease Prediction REST API & Cloud Deployment
 
 **Author:** Akshat Garg
+
 **Registration Number:** 23BCE10641
+
 **Application Number:** IN26011052
+
 **Batch Number:** 1A
+
 **Email ID:** akshat.23bce10641@vitbhopal.ac.in
+
 **Render Deployment URL:** [https://mponline-assignment-10-zqlt.onrender.com](https://mponline-assignment-10-zqlt.onrender.com)
 
 ---
