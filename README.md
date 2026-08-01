@@ -1,6 +1,5 @@
 # Heart Disease Prediction REST API & Cloud Deployment
 
-
 **Author:** Akshat Garg  
 
 **Registration Number:** 23BCE10641 
